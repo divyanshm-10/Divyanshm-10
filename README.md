@@ -796,7 +796,7 @@ Competitive Coding    ██████░░░░ 60%
 
 ### 💻 Most Used Languages
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshm-10&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshm-10&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -860,7 +860,7 @@ Competitive Coding    ██████░░░░ 60%
 
 ### 🌟 Milestones • Contributions • Excellence
 
-<img src="https://github-profile-trophy.vercel.app/?username=divyanshm-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=18&margin-h=18&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=divyanshm-10&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
 
 </div>
 
@@ -1031,7 +1031,7 @@ Contributing to projects and growing within the developer community.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/divyanshm-10/divyanshm-10/output/github-contribution-grid-snake-dark.svg"
+    https://raw.githubusercontent.com/divyanshm-10/divyanshm-10/output/github-contribution-grid-snake-dark.svg
   />
   <source
     media="(prefers-color-scheme: light)"
