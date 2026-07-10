@@ -832,39 +832,27 @@ Competitive Coding    ██████░░░░ 60%
 
 ---
 
-## ⚡ GitHub Highlights
-
-| Metric | Description |
-|---------|-------------|
-| 📦 Public Repositories | Open-source and personal projects |
-| 🌟 GitHub Stars | Community appreciation for repositories |
-| 🔥 Contribution Streak | Daily coding consistency |
-| 💻 Languages Used | Technologies used across repositories |
-| 📈 Commit Activity | Continuous development progress |
-| 🤝 Open Source | Collaboration and contributions |
-
 ---
+
+# 🏅 GitHub Highlights
 
 <div align="center">
 
-### 🚀 *"Consistency in coding today creates excellence tomorrow."*
-
-</div>
-
----
----
-
-# 🏅 GitHub Achievements
-
-<div align="center">
+### 📊 Developer Profile Dashboard
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshm-10&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshm-10&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshm-10&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshm-10&theme=tokyonight&utcOffset=5.5"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshm-10&theme=tokyonight&utcOffset=5.5"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshm-10&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshm-10&theme=tokyonight"/>
 
 </div>
 
@@ -872,19 +860,42 @@ Competitive Coding    ██████░░░░ 60%
 
 <div align="center">
 
-### 🚀 GitHub Highlights
+## 🚀 GitHub Overview
 
-| Feature | Status |
-|---------|:------:|
-| 💻 Public Projects | ✅ |
-| 📈 Commit History | ✅ |
-| 🌍 Open Source | ✅ |
-| 🚀 Continuous Learning | ✅ |
-| 🤝 Collaboration | ✅ |
+| 💻 Development | 📈 Activity | 🌍 Community |
+|:--------------:|:----------:|:------------:|
+| Java Full Stack | Daily Learning | Open Source |
+| AI & ML Projects | Continuous Commits | Collaboration |
+| Data Analytics | Project Development | Knowledge Sharing |
 
 </div>
 
-**"Success on GitHub isn't measured only by trophies—it's measured by the value you create, the problems you solve, and the community you help."**
+---
+
+<div align="center">
+
+### 🎯 Developer Goals
+
+🏗️ Build Enterprise Applications
+
+🤖 Create AI-Powered Solutions
+
+📊 Develop Data Analytics Dashboards
+
+☁️ Learn Cloud & DevOps
+
+🌍 Contribute to Open Source
+
+💼 Grow as a Software Engineer
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Building impactful software through continuous learning, innovation, and collaboration."**
+ > **"Success on GitHub isn't measured only by trophies—it's measured by the value you create, the problems you solve, and the community you help."**
 
 </div>
 
