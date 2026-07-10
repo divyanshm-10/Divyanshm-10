@@ -783,9 +783,9 @@ Competitive Coding    ██████░░░░ 60%
 
 ### 📈 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshm-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyanshm-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=divyanshm-10&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Divyanshm-10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -795,7 +795,7 @@ Competitive Coding    ██████░░░░ 60%
 
 ### 💻 Most Used Languages
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshm-10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshm-10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -805,7 +805,7 @@ Competitive Coding    ██████░░░░ 60%
 
 ### 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshm-10&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshm-10&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -815,7 +815,7 @@ Competitive Coding    ██████░░░░ 60%
 
 ### ⚡ GitHub Profile Summary
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshm-10&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshm-10&theme=tokyonight"/>
 
 </div>
 
@@ -823,9 +823,9 @@ Competitive Coding    ██████░░░░ 60%
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshm-10&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshm-10&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshm-10&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshm-10&theme=tokyonight"/>
 
 </div>
 
