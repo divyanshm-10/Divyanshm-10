@@ -785,17 +785,19 @@ Competitive Coding    ██████░░░░ 60%
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyanshm-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Divyanshm-10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
 
 <div align="center">
+---
 
-### 💻 Most Used Languages
+# 💻 Primary Technologies
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshm-10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,python,mysql,html,css,javascript,git,github,docker,aws"/>
 
 </div>
 
