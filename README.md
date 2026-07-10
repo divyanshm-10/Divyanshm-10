@@ -854,57 +854,17 @@ Competitive Coding    ██████░░░░ 60%
 ---
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Achievements
 
 <div align="center">
 
-### 🌟 Milestones • Contributions • Excellence
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshm-10&theme=tokyonight"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=divyanshm-10&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+<br><br>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshm-10&theme=tokyonight"/>
 
-<br>
-
-<div align="center">
-
-### 📈 Developer Growth
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🚀 Innovation
-
-Building practical software solutions using
-
-**Java • AI • Data Analytics**
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 Development
-
-Focused on writing
-
-**Clean • Scalable • Maintainable Code**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌍 Community
-
-Learning continuously and contributing to
-
-**Open Source & Developer Community**
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshm-10&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -912,25 +872,19 @@ Learning continuously and contributing to
 
 <div align="center">
 
-### 🎯 Development Goals
+### 🚀 GitHub Highlights
 
-🏆 Build impactful projects
-
-⭐ Improve repository quality
-
-🤝 Contribute to Open Source
-
-📚 Learn emerging technologies
-
-🚀 Grow as a Software Engineer
+| Feature | Status |
+|---------|:------:|
+| 💻 Public Projects | ✅ |
+| 📈 Commit History | ✅ |
+| 🌍 Open Source | ✅ |
+| 🚀 Continuous Learning | ✅ |
+| 🤝 Collaboration | ✅ |
 
 </div>
 
----
-
-<div align="center">
-
-> **"Success on GitHub isn't measured only by trophies—it's measured by the value you create, the problems you solve, and the community you help."**
+**"Success on GitHub isn't measured only by trophies—it's measured by the value you create, the problems you solve, and the community you help."**
 
 </div>
 
