@@ -776,7 +776,6 @@ Competitive Coding    ██████░░░░ 60%
 > **"Every coding challenge is an opportunity to become a better engineer."**
 
 ---
----
 
 # 📊 GitHub Analytics
 
@@ -784,9 +783,9 @@ Competitive Coding    ██████░░░░ 60%
 
 ### 📈 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshm-10&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divyanshm-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshm-10&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=divyanshm-10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -796,17 +795,7 @@ Competitive Coding    ██████░░░░ 60%
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshm-10&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 GitHub Activity Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshm-10&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshm-10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -814,9 +803,9 @@ Competitive Coding    ██████░░░░ 60%
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshm-10&theme=tokyonight"/>
+### 📈 Contribution Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshm-10&theme=tokyonight"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshm-10&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -824,13 +813,46 @@ Competitive Coding    ██████░░░░ 60%
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshm-10&theme=tokyonight"/>
+### ⚡ GitHub Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshm-10&theme=tokyonight&utcOffset=5.5"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshm-10&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshm-10&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshm-10&theme=tokyonight"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+## 🚀 GitHub Highlights
+
+| 📌 Feature | 🚀 Status |
+|:-----------|:---------:|
+| 💻 Java Projects | ✅ Active |
+| 🌐 Full Stack Development | ✅ Active |
+| 🤖 AI & Machine Learning | ✅ Learning |
+| 📊 Data Analytics | ✅ Active |
+| ☁️ Cloud & DevOps | 🚀 Learning |
+| 🌍 Open Source | 🚀 Growing |
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Consistency in coding, learning, and collaboration builds great software engineers."**
+
+</div>
 
 ---
 
@@ -895,11 +917,7 @@ Competitive Coding    ██████░░░░ 60%
 <div align="center">
 
 > **"Building impactful software through continuous learning, innovation, and collaboration."**
- > **"Success on GitHub isn't measured only by trophies—it's measured by the value you create, the problems you solve, and the community you help."**
-
 </div>
-
----
 ---
 
 # 📈 Contribution Activity
