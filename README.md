@@ -784,7 +784,7 @@ Competitive Coding    ██████░░░░ 60%
 ### 📈 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyanshm-10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
+<img width="49%" src="https://streak-stats.demolab.com?user=divyanshm-10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
